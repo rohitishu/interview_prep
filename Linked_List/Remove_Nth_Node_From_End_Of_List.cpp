@@ -1,3 +1,5 @@
+// approach is simple just count number of of list and traverse it whenever you encounter that position just delete that node
+// time complexity--> O(n) space complexity--->O(1)
 /**
  * Definition for singly-linked list.
  * struct ListNode {
